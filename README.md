@@ -17,6 +17,11 @@ Please **DM me directly** with the following information:
 
 ---
 
+## 🛠️ I came across a bug in the game
+Please refernto bug reports channel in the discord. I do not have the power to fix the bugs myself nor do I have the time to refer every bug to the developers.
+
+---
+
 ## 💬 I Have a Question or Want to Message You.
 Feel free to message me! Just avoid sending messages like just "hi" without saying what you're contacting me for.
 
