@@ -22,6 +22,11 @@ Please refernto bug reports channel in the discord. I do not have the power to f
 
 ---
 
+## I cannot verify with DC
+Sorry but we currently do not do any sort of manual verification.
+
+---
+
 ## 💬 I Have a Question or Want to Message You.
 Feel free to message me! Just avoid sending messages like just "hi" without saying what you're contacting me for.
 
